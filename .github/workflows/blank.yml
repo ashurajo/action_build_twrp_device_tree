@@ -10,7 +10,7 @@ on:
       IMG_URL:
         description: 'IMG_URL'
         required: true
-        default: 'https://github.com/Xpsoted/Action-Recovery-builder/releases/download/1404192362/recovery.img'
+        default: 'https://download.fastgit.org/ashurajo/action_build_twrp_device_tree/releases/download/untagged-382308e251333439c915/recovery.img'
 
 jobs:
   build:
